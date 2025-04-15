@@ -1,0 +1,14 @@
+<resources>
+    <!-- Các style khác có thể có ở đây -->
+
+    <style name="CalcButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="backgroundTint">#263238</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
